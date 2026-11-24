@@ -1,0 +1,1 @@
+Data Structures and Algorithms project in Java using Huffman Tree, Greedy Algorithm, Priority Queue, and Hashing. Huffman coding assigns variable-length codes to input characters based on their frequencies!
